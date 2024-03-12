@@ -1,6 +1,6 @@
 {
   "name": "onedionys-progress-bar-component",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Progress Bar Component) - A component to display the progress or status of processes in the application.",
   "main": "src/progress-bar.js",
   "directories": {
